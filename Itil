@@ -1,0 +1,67 @@
+#ITIL
+
+
+ITIL es la biblioteca de infraestructura de TI o (Information Technology Infrastructure Library) es un marco de trabajo para la gestión de servicios de TI el cual describe cuales son las mejores practicas de TI
+
+ITIL es una guia de buenas practicas para la gestión de servicios de tecnologias de la informacion (TI)
+
+##Sus principios son
+
+	###1. Procesos
+	Necesarios para la gestion de TI de acuerdo a la alineacion de los mismos dentro de la organización.
+	
+	###2. Calidad
+	Entendida como la entrega a cliente del producto o servicio optimos, es decir, incluyendo las características acordadas.
+
+	###3. Cliente
+	Su satisfacción es el objetivo de la mejora de servicios, siendo, por lo tanto el beneficiario directo de la implantacion de las buenas practicas de ITIL
+
+	###4. Independencia
+	Siempre deben mantenerse buenas practicas a pesar de los metodos establecidos para cada proceso y de los proveedores existentes
+
+ITIL a sido considerado mucho tiempo como la biblia del "Service Management", es decir uno de los marcos de referencia mas utilizados en el mundo.
+Es una metodologia que organiza los procesos de Tecnologias de la informacion. su Objetivo es guiar a los agentes en la realización eficiente de sus tareas.
+
+La metodologia ITIL se despliega en fases clave, desde la estrategia hasta la mejora continua del servicio, cada una con sus objetivos especificos.
+
+Entre los beneficios de utilizar ITIL, se destacan mejoras en el desempeño de los empleados, reducción de gastos y mayor satisfacción del cliente.
+
+LA integracion de ITIL con soluciones como Zendesk potencia la Calidad y valor de los servicios de TI en una empresa gracias a funcionalidades que agilizan y simplifican la atención al cliente.
+
+##Objetivo
+El objetivo principal de ITIL es asegurar una gestion eficaz de los procesos TI y garantizar una buena experiencia a los clientes.
+Tambien, brindar el mejor nivel de calidad en el servicio al cliente al satisfacer las necesidades del consumidor con un alto estándar de seguridad y confiabilidad.
+
+Los procesos de ITIL varían según su biblioteca, y reciben diferentes nombres. LA ultima version es ITIL V4 que se lanzo en 2019.
+
+##ITIL V4
+Introdujo un nuevo modelo operativo basado en el valor del servicio, que se centra en las necesidades del cliente y en la agilidad de la entrega. Además, incorpora conceptos como DevOps, Agile y Lean.
+
+Cada Biblioteca se divide en un conjunto de libros, cuyas fases son:
+
+##Estrategia del servicio
+El objetivo de esta fase es es crear valor para el cliente y transformar el servicio de TI en un activo estrategico.
+
+##Diseño del Servicio
+Este proceso mapea la disponibilidad de los profesionales del sector y analiza sus habilidades tanto para optimizar los servicios existentes como para desarrollar otros nuevos.
+
+##Transición del servicio
+Esta fase implica la implementación del servicio y su validación. LA transición afecta al ambiente corporativo.
+
+##Operación del servicio
+Esta etapa tiene como objetivo garantizar que los servicios de TI se realicen y se entreguen con calidad, y además, asegurar que seguiran las pautas determinadas por el ###Acuerdo de Nivel de Servicio (SLA)
+
+##Mejora continua del servicio
+Se trata de monitorear y revisar los servicios de TI. Es una fase importante tanto para comprobar posibles fallos y corregirlos como para definir mejoras. Esto implica tomar medidas para adquirir experiencia tanto en la gestion de datos como en los requisitos normativos.
+
+##Zendesk
+Es el Software de atencion al cliente, se adapta a las mejores practicas de ITIL, ya que ofrece funcionalidades que se integran con estos principios y procesos para optimizar la entrega de servicios IT.
+
+###Gestión de incidentes:
+Facilita el registro, priorización, asignación y resolución eficiente de problemas y garantiza una respuesta rapida y efectiva ante interrupciones en los servicios de TI.
+
+###Gestion de cambios:
+Brinda soporte para el proceso completo y promueve una transición fluida en los sistemas y servicios de TI, lo que permite mantener la integridad y minimizar riesgos.
+
+###Gestion de problemas:
+Simplifica el diagnostico y resolucion eficiente de problemas recurrentes o subyacentes en los servicios de TI para mantener la estabilidad del entorno tecnologico.
